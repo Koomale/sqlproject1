@@ -13,4 +13,4 @@ A small CRUD application built using  **Python** and **SQL** to manage student a
  **Database**: SQL (SQLite)
 
 ## Database Schema
-The project utilizes a relational structure focusing on Students and their academic majors, ensuring data normalization and performance.
+The project uses a relational structure focusing on Students and their academic majors, ensuring data normalization and performance.
