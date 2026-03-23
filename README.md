@@ -1,15 +1,15 @@
 # sqlproject1
 # Student Management System
 
-A lightweight CRUD application built with **Python** and **SQL** to manage student academic records efficiently.
+A small CRUD application built using  **Python** and **SQL** to manage student academic records efficiently.
 
 ## Features
 - **Relational Database Design**: Optimized schema using SQLite.
-- **Data Integrity**: Implemented constraints to ensure valid data entry.
+- **Data Integrity**: Used constraints to ensure valid data entry.
 - **Python Integration**: Clean CLI interface using the `sqlite3` library.
 
 ## Tech Stack
- **Language**: Python 3.x
+ **Language**: Python 
  **Database**: SQL (SQLite)
 
 ## Database Schema
